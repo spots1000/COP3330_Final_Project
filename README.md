@@ -1,4 +1,4 @@
-# COP3330_Final_Project
+# COP3330 Final Project
 
 Objectives:
 - Develop a GUI application in Java using WindowBuilder and Swing.
